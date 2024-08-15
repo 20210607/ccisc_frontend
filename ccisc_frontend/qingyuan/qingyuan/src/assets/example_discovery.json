@@ -1,0 +1,129 @@
+{
+    "library": "麒麟/libnotify4",
+    "tableData1": [
+        {
+            "library": "libnotify4",
+            "dependencies": [
+                "libc6",
+                "libglib2.0-0",
+                "libgdk-pixbuf2.0-0"
+            ],
+            "dependents": []
+        },
+        {
+            "library": "libc6",
+            "dependencies": [],
+            "dependents": [
+                "libnotify4",
+                "libgdk-pixbuf2.0-0"
+            ]
+        },
+        {
+            "library": "libnotify4",
+            "dependencies": [
+                "libnotify3"
+            ],
+            "dependents": [
+                "libnotify5"
+            ]
+        }
+    ],
+    "tableData2": [
+        {
+            "CVE_number": "CVE-2013-7381",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "严重",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7381"
+        },
+        {
+            "CVE_number": "CVE-2023-52355",
+            "library": "libnotify4",
+            "publish_date": "2024-01-24",
+            "level": "高危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-52355"
+        },
+        {
+            "CVE_number": "CVE-2023-3164",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "中危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3164"
+        },
+        {
+            "CVE_number": "CVE-2013-7384",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "中危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7384"
+        },
+        {
+            "CVE_number": "CVE-2013-7385",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "未修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7385"
+        },
+        {
+            "CVE_number": "CVE-2013-7386",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7386"
+        },
+        {
+            "CVE_number": "CVE-2013-7387",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7387"
+        },
+        {
+            "CVE_number": "CVE-2013-7388",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7388"
+        },
+        {
+            "CVE_number": "CVE-2013-7389",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7389"
+        },
+        {
+            "CVE_number": "CVE-2013-7390",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7390"
+        },
+        {
+            "CVE_number": "CVE-2013-7391",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7391"
+        },
+        {
+            "CVE_number": "CVE-2013-7392",
+            "library": "libnotify4",
+            "publish_date": "2014-05-14",
+            "level": "低危",
+            "fix_status": "已修复",
+            "detail": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7392"
+        }
+    ]
+}
